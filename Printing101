@@ -2,4 +2,6 @@
 
 print("Hello World")
 
-HelloWorld("Print")
+print("Print")
+
+print("hello")
